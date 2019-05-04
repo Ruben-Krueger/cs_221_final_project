@@ -1,0 +1,443 @@
+1     x   1ju3            Monomer      34.8          —               —           8.00              Cocaine Esterase                Rodhococcus sp. mb1          30                         20436035
+
+2         1hml            Monomer      39.8         1.10             52          7.00             alpha-Lactalbumin                    Homo sapiens             37                         2605208
+
+3         1ihb_a          Homo2-mer    41.5          —               —           7.50                 p18INK4c                         Homo sapiens             37                         12370184
+
+4     x   1blc            Homo2-mer    41.6          —              111          7.50              beta-Lactamase                  Staphylococcus aureus        34                         8286328
+
+5     x   1d0b            Monomer      42.1          —               —           7.50                 Internalin B                 Lysteria monocytogen         33                         15003459
+
+"6     x   1chk_a          Monomer      43.2          —              125          7.00                Chitosanase                   Streptomyces sp N174         30               17644457,9989221"
+
+7     x   1aqh            Monomer      43.7         8.46            238          7.20               alpha-Amylase                Pseudomonas Haloplanktis       26                         10194383
+
+8     x   1f0l_ [1-187]   Monomer      44.2         3.50            110          8.00         Diphteria Toxin Fragment A        Corynebacterium diphtheriae     36                         2271548
+
+9     x   1mac            Monomer      44.5         1.98            119          6.00              beta-Gluacanase                   Bacillus macerans          30                          8931144
+
+10         1s3g            Monomer      44.6         2.30             76          6.80              Adenylate Kinase               Sporosarcina globispora       25                         16125837
+
+11     x   1fga            Monomer      45.0          —               —           7.20          Fibroblast Growth Factor                Homo sapiens             37                         7678726
+
+12         1rtp_1          Monomer      45.8          —               70          7.40             alpha-Parvalbumin                     Rattus Rattus           37                         9929009
+
+13     x   2wsy_a          Hete4-mer    46.0          —               —           7.00       Tryptophan synthase alpha su          Salmonella typhimurium        37                         3126743
+
+14     x   1efc_a          Monomer      46.5          —               —           7.60              Elongation Factor                  Escherichia Coli          37                         14691225
+
+15     x   1msi            Monomer      46.7          —               55          7.00         Antifreeze protein (TypeIII)       Macrozoarces americanus        17                         17189482
+
+16     x   1bu7_a          Monomer      47.0          —               —           7.00             Cytochrome P450                   Bacillus megaterium         30                         12401810
+
+17         1p3j            Monomer      47.6          —               —           7.40              Adenylate Kinase                    Bacillus subtilis        35                         18621726
+
+18     x   1aky            Monomer      47.8         2.03             82          7.50              Adenylate Kinase              Saccharomyces cerevisiae       28                         7635152
+
+19         1mve            Monomer      48.0          —               —           7.00              beta-Gluacanase               FIbrobacter succinogenes       37                         21959377
+
+20     x   1jnx            Monomer      48.3          —               —           7.00         Breast Cancer Associated 1               Homo sapiens             37                         14691225
+
+21     x   1oa3            Monomer      49.2          —               —           8.00           Cel12 Endoglucanase               Trichoderma citrinoviride     25                         12649442
+
+22         1chg            Monomer      49.2         4.51             90          7.00             Chymotrypsinogen                       Bos Taurus             38                         18201812
+
+23     x   5dfr            Monomer      49.3          —               94          7.00          Dihydrofolate Reductase                Escherichia Coli          37                         7798183
+
+24     x   1lni            Monomer      49.3         1.52             93          7.00              Ribonuclease T1               Streptomyces aureofaciens      28                         20340133
+
+25     x   1g5a            Monomer      49.6          —               —           7.00               Amylosucrase                  Neisseria polysaccharea       36                         22210773
+
+26     x   451c            Monomer      50.4          —               —           5.00              Cytochrome c551               Pseudomonas aeruginosa         37                         10608805
+
+27     x   1kfw            Monomer      50.5          —               —           7.50                  Chitinase                   Arthrobacter sp. TAD20       28                         12915727
+
+28     x   2cpp            Monomer      51.0         1.36             53          7.00             Cytochrome P450                   Pseudomonas putida          30                         20138909
+
+29     x   1pii            Monomer      51.0          —               —           7.40           Anthranilate isomerase                Escherichia Coli          37                         8193151
+
+30     x   1mj5            Monomer      51.0          —               —           7.00                    LinB                   Sphingomonas paucimobilis       30
+
+31     x   1bmc            Monomer      51.0          —              155          7.00              beta-Lactamase                      Bacillus cereus          30                         1633173
+
+"32     x   1wlg_a          Homo2-mer    52.5         4.78            247          7.00               Flagellar hook                Salmonella typhimurium        37               10069386,7658470"
+
+33     x   1ayf_a          Homo2-mer    51.4         1.79             80          8.50                Adrenodoxin                         Bos Taurus             38                         7663346
+
+34     x   4u2b            Monomer      51.5          —               —           7.50           Dienelactone hydrolase           Pseudomonas knackmussii        30                         25600287
+
+"35     x   2rn2            Monomer      51.5          —               89        5.50/7.80           Ribonuclease H                     Escherichia Coli          37                7764048,1331044"
+
+36     x   1btl            Monomer      51.5          —              131          6.80           Tem-1 beta-Lactamase                  Escherichia Coli          37                         11870868
+
+37     x   1bd8            Monomer      51.9          —               —           7.50                 p19INK4d                         Homo Sapiens             37                         11786024
+
+38     x   1mba            Monomer      52.0          —               —           7.00                 Myoglobin                       Aplysia Limacina          37
+
+"39     x   9rnt            Monomer      52.1         1.59             98          7.00              Ribonuclease T1                   Aspergillus oryzae         35                8136367,1445858"
+
+40     x   1ew4            Monomer      52.1          —               —           7.00                    Cyay                         Escherichia Coli          37                          147412
+
+41     x   1am7_a          Homo3-mer    52.3          —              113          7.00                 Lyzozyme                 Enterobacteria Lambda Phage      37                         10556513
+
+42     x   1avr            Monomer      52.5          —              163          8.00                  Annexin                         Homo sapiens             37                         9048549
+
+43     x   3pep_179-326    Monomer      52.6          —               64          7.10             Pepsin C-terminal                      Sus Scrofa             39                         6799654
+
+44     x   1h12            Monomer      52.6          —              251          7.50                  Xylanase                  Pseudomonas Haloplanktis       26                         12691750
+
+"45     x   1ey0            Monomer      52.7         2.20             79          8.50          Staphylococcal Nuclease             Staphylococcus aureus        34       8518730,11023780,8580845"
+
+"46         1ank_a          Monomer      52.9          —               97        6.80-7.40           Adenylate Kinase                   Escherichia Coli          37               2542263,16125837"
+
+47     x   2nvh            Monomer      53.0         1.89             84          3.00              Interleukin1 beta                   Homo sapiens             37                         8049234
+
+48     x   2fx5            Monomer      53.0          —               —           5.80                   Lipase                   Pseudomonas mendocina          30                         16823035
+
+49     x   1cmb_ab         Homo2-mer    53.2         2.13            121          7.00           Methionine Repressor                  Escherichia Coli          37                         1390748
+
+50     x   1rro            Monomer      53.6          —               75          7.40              beta-Parvalbumin                     Rattus Rattus           37                         9929009
+
+51     x   1abe            Monomer      53.6         3.16            151          7.40         L-arabinose binding protein             Escherichia Coli          37                         6355105
+
+52     x   1e21            Monomer      53.7          —               —           5.00               Ribonuclease A                     Homo sapiens             37                         12538908
+
+53         1csp            Monomer      53.8         0.96             46          7.00             Cold Shock Protein                   Bacillus subtilis        37                         15784264
+
+54     x   2vh7            Monomer      53.9         1.46             69          5.50             Acyl-Phosphatase                     Homo sapiens             37                         10026297
+
+55     x   1hxn            Monomer      53.9          —               —           7.40                 Hemopexin                    Oryctogalus cuniculus        39                         8343510
+
+56         1yea            Homo2-mer    54.0         1.58             71          6.00             Iso-2-Cytochrome               Saccharomyces cerevisiae       28                         10752615
+
+57     x   1bni            Monomer      54.0         1.41            125          5.80                  Barnase                   Bacillus amyloliquefaciens     37                         8003984
+
+58         1h8v_a          Monomer      54.4          —               —           8.00           Cel12 Endoglucanase                  Trichoderma reseei         28                         12649442
+
+59     x   3uue            Monomer      54.6          —               .—          6.00                Lipase SMG1                    Malassezia globosa          33                         25837472
+
+60     x   1ke4_a          Monomer      54.6          —              180          6.80           AmpC beta-Lactamase                   Escherichia Coli          37                         10493583
+
+61     x   1oxa            Monomer      55.0          —               —           7.40             Cytochrome P450               Saccharopolyspora erythraea     26                         12401810
+
+62     x   2ov0            Monomer      56.0          —               —           7.50                 Amicyanin                   Paracoccus denitrificans      34                         24704124
+
+63         3pgk            Monomer      56.2          —               —           7.00          Phosphoglycerate kinase           Saccharomyces cerevisiae       28                         2653429
+
+64         2rbi            Monomer      56.5          —              124          6.20                   Binase                      Bacillus intermedius        37                         10094494
+
+65     x   1zym_b          Homo2-mer    56.7         2.70            143          7.50         (Amino-Terminal) Enzyme I               Escherichia Coli          37                         10892802
+
+"66     x   1mjc            Monomer      56.9         0.76             43          7.00             Cold Shock Protein                  Escherichia Coli          37              10716191, 11567094"
+
+67     x   3sil            Monomer      57.0          —               —           7.00                  Sialidase                  Salmonella typhimurium        37                         11742108
+
+68     x   3ks3            Monomer      57.1          —               —           7.80           Carbonic Anhydrase II                  Homo sapiens             37                         25683338
+
+69     x   2tdx            Monomer      57.1          —               —           7.50          Diphteria Toxin repressor        Corynebacterium diphtheriae     36                         16352732
+
+70     x   1ten            Monomer      57.1          —               —           5.00                  Tenascin                        Homo sapiens             37                         9609701
+
+71     x   1lmb_a          Monomer      57.2         1.44             68          7.00             Lambda Repressor             Enterobacteria Lambda Phage      37                         11969396
+
+72         1xxn            Monomer      57.3         6.74           143.4         6.50               GH11 Xylanase                      Bacillus subtilis        35                         26955749
+
+73     x   1ftg            Monomer      57.4          —               —           7.00               Apoflavodoxin                   Anabaena PCC7119            30                         8819170
+
+74     x   3psg            Monomer      57.5         6.10            233          7.10                Pepsinogen                          Sus Scrofa             39                         7227510
+
+75     x   1urp            Monomer      57.5          —               —           7.00          D-Ribose binding protein               Escherichia Coli          37                         17242374
+
+76     x   1tca            Monomer      57.7          —               —           7.00                   Lipase                       Candida antarctica         32                         12968077
+
+77     x   1v0s            Monomer      57.8          —               —           7.00              Phospholipase B                 Streptomyces sp. PMF         30                         14726207
+
+78     x   1f0l_201-535    Monomer      57.9         4.30            190          8.00               Diphteria Toxin             Corynebacterium diphtheriae     36                         2271548
+
+79     x   1faj            Homo6-mer    58.0          —               —           7.00              Pyrophosphatase                    Escherichia Coli          37                         10386872
+
+80     x   1b8j_a          Homo2-mer    58.0          —              262          8.00            Alkaline phosphatase                 Escherichia Coli          37                         3262371
+
+81     x   2st1            Monomer      58.5         4.80             88          8.00                  Subtilisin                Bacillus amyloliquefaciens     37                         2684274
+
+"82     x   1qlp            Monomer      58.9          —               —           7.80               Alpha1-Trypsin                     Homo sapiens             37     11700071,11926819,12498804"
+
+83         2cab            Monomer      59.0          —               —           6.10            Carbonic Anhydrase I                  Homo sapiens             37                         15794662
+
+84     x   1pin_6-39       Monomer      59.0          —               —           7.00              Pin1 WW domain                      Homo sapiens             37                         16807295
+
+85     x   1avu            Monomer      59.0          —               —           7.00              Trypsin Inhibitor                    Glycine max             28                         11969396
+
+86     x   1ant            Homo2-mer    59.0          —               —           7.40                Antithrombin                      Homo sapiens             37                         12939144
+
+"87     x   2a01            Monomer      59.2          —               41          7.40              Apolipoprotein A-I                  Homo sapiens             37     11123918,12173940,16430220"
+
+"88         1wq5_a          Monomer      59.5         2.28             94          7.30       Tryptophan synthase alpha su              Escherichia Coli          37       1727648, 6384087, 6992862"
+
+89     x   1ycc            Homo2-mer    60.0         1.58             81          6.00             Iso-1-Cytochrome               Saccharomyces cerevisiae       28                         10631980
+
+"90     x   1ekg            Monomer      60.0          —               —           7.20                  Frataxin                        Homo sapiens             37              14741216,15157084"
+
+91     x   1au1_ab         Homo2-mer    60.6         3.65            155          6.60             gamma-Interferone                    Homo sapiens             37                         10387027
+
+92     x   1fhl            Monomer      60.9          —               —           4.50              beta-Galactanase                 Aspergillus aculeatus       24                         25941560
+
+93     x   1rhg_a          Homo3-mer    61.0         2.29            127          6.09      Granulocyte colony stimulating f.           Homo sapiens             37                         12009905
+
+94     x   1w2p_a          Monomer      61.2          —               —           7.00                Xylanase 10                    Cellvibrio Japonicus        37                         15452124
+
+95     x   1xyp_a          Monomer      61.4          —               —           5.00                Xylanase 11                     Trichoderma reseei         28                         15129722
+
+96     x   1esf_a          Monomer      61.4          —               —           7.00                Enterotoxin A                 Staphylococcus aureus        34                         10636860
+
+97     x   1pmk_a          Monomer      62.0         0.84             75          7.40          Plasminogen K4 domain                   Homo sapiens             37                         6502712
+
+98     x   1aut_c          Hete2-mer    62.2          —              109          8.50                  Protein C                       Homo sapiens             37                         7775416
+
+99     x   1qwo            Monomer      62.5          —               —           5.00                  Pythase                      Aspergillus fumigatus       37                                -
+
+100    x   1atn            Monomer      62.7         2.30            146          7.00                   G-Actin                    Oryctogalus cuniculus        39                         2207085
+
+101        1ppi            Monomer      63.0          —              319          7.20               alpha-Amylase                        Sus Scrofa             39                         10194383
+
+102        1hix_a          Homo3-mer    63.1          —              120          7.50               Xylanase XYL1                   Streptomyces sp. S38        30                         12691750
+
+103    x   1ao6            Monomer      63.2         3.90             89          7.40               Serin Albumin                      Homo sapiens             37                         10628532
+
+104    x   1poh            Monomer      63.5         1.49             76          7.00                     HPr                         Escherichia Coli          37                         8784192
+
+"105        3rn3            Monomer      63.6         1.15            116          6.00               Ribonuclease A                       Bos Taurus             38               10211829, 9260280"
+
+"106    x   1fna            Monomer      63.7         1.74            127          7.20      Tenth Fibronectin type III domain           Homo sapiens             37               11513611,1994038"
+
+107        1v9e            Monomer      64.0         3.80            190          7.00           Carbonic Anhydrase II                    Bos Taurus             38                         15794662
+
+108        1tpk            Monomer      64.3          —               —           4.50        Tissue plasminogen Activator              Homo sapiens             37                         2502177
+
+109    x   1bk7            Monomer      64.4          —               —           7.50             Ribonuclease MC1                  Momordica charantia         26                         15322360
+
+110    x   3mbp            Monomer      64.6         4.70            217          7.00         Maltodextrin binding protein            Escherichia Coli          37                         14635128
+
+111    x   1wdn            Monomer      64.7          —               —           8.30          Glutamine binding protein              Escherichia Coli          37                         15517590
+
+112    x   2phl            Homo3-mer    64.9          —               —           7.00                 Phaseolin                      Phaseolus vulgaris         27                         12011071
+
+"113    x   1stf_i          Hete2-mer    64.9         1.50             78          6.50                   Stefin B                       Homo sapiens             37                1446674,9649316"
+
+114    x   1lz1            Monomer      64.9         1.58            114          2.70                 Lysozyme                         Homo Sapiens             37                         9010773
+
+115        2wan            Monomer      65.0          —               —           5.00                 Pullulanase                 Bacillus acidopullulyticus    35                         26215347
+
+"116    x   4blm            Monomer      65.0         3.80            152          7.00              beta-Lactamase                  Bacillus Licheniformis       50               17496026,8948443"
+
+117        1sup            Monomer      65.0          —               —           7.00                Subtilisin bpn              Bacillus amyloliquefaciens     37                         12011071
+
+"118    x   1hfz_a          Monomer      65.1         1.20             72          7.10             alpha-Lactalbumin                      Bos Taurus             38              10764588,10723542"
+
+"119    x   2lzm            Monomer      65.2         2.50            132          6.10                T4 Lyzozyme                  Enterobacteria Phage T4       37                8901549,8401213"
+
+120    x   1gd6            Monomer      65.5         1.07            100          5.00                 Lyzozyme                          Bombyx Mori             25                         11563690
+
+121        7pti            Monomer      66.0         0.84             62          7.00           Bovine Trypsin Inhibitor                 Bos Taurus             38                         9154914
+
+122    x   1tgn            Monomer      66.0         3.09            150          4.20                Trypsinogen                         Bos Taurus             38                         7723025
+
+123    x   1shg            Monomer      66.0         0.81             47          7.00         Alpha spectrin SH3 domain                 Gallus Gallus           41                         10326252
+
+124    x   1zdr            Monomer      66.2          —               —           7.00          Dihydrofolate Reductase         Geobacillus stearothermophilus   51                         24730604
+
+125    x   1oa4            Monomer      66.2          —               —           8.00           Cel12 Endoglucanase               Streptomyces sp 11AG8         30                         12649442
+
+126    x   1g6n_a          Homo2-mer    66.4         0.42            131          7.00         Catabolite activator protein            Escherichia Coli          37                         2844254
+
+127    x   2cnc            Monomer      66.6          —               —           7.50                Xylanase 10                      Cellvibrio mixtus         42                         16762367
+
+128    x   1e0w            Monomer      66.7          —              146          7.00                 Xylanase A                   Streptomyces Lividans        37                         12486727
+
+129    x   1aye            Monomer      66.9          —               —           5.50             Carboxypeptidase                     Homo sapiens             37                         16503630
+
+130    x   1gwy            Monomer      67.0          —               —           7.00                Sticholisin II               Stichodactyla helianthus      25                         15388326
+
+"131    x   1cyo            Monomer      67.0          —               92          7.00               Cytochrome b5                        Bos Taurus             38             10508399, 10631476"
+
+132    x   1osa_1-80       Monomer      67.2         1.30             56          7.40                 Calmodulin                   Paramecium tetraurelia       25                         12557181
+
+133    x   1cea            Monomer      67.6          —               —           7.40          Plasminogen K1 domain                   Homo Sapiens             37                         1993205
+
+134    x   2hip_a          Homo2-mer    67.7         1.10             22          7.00         High Pot Iron Sulfur protein        Halorhodispora halophila      48                         8580847
+
+"135        1hmk            Monomer      68.5         1.80             85          7.50             alpha-Lactalbumin                     Capra Hircus            39              16236317,15861407"
+
+136        1znj_ab         Hete2-mer    68.7          —               41          7.40                   Insulin                        Homo sapiens             37                         16548529
+
+137    x   1olr            Monomer      68.7          —               —           8.00           Cel12 Endoglucanase                   Humicola grisea           45                         14627738
+
+138        1smd            Monomer      68.9          —              196          7.20               alpha-Amylase                      Homo sapiens             37                         10194383
+
+139    x   1ezm            Monomer      69.0          —               —           7.40                  Elastase                  Pseudomonas aeruginosa         37                         25815820
+
+140    x   1col            Monomer      69.0          —               —           7.00                  Colicin A                      Escherichia Coli          37                         7678407
+
+141        4cg1            Monomer      69.8          —               —           8.00                  Cutinase                      Thermobifida fusca         55                         27419048
+
+142    x   1a3y_a          Homo2-mer    69.2         0.95             94          6.60           Odorant binding protein                  Sus Scrofa             39                         10555987
+
+"143    x   1rbp            Monomer      69.6         2.53            163          7.40        Serum retinol binding protein             Homo sapiens             37               1610801,11604536"
+
+144    x   1uw3            Homo2-mer    70.0          —               —           7.40                Prion Protein                       Ovis Aries             39                         12206674
+
+145    x   1ji3_a          Homo2-mer    70.0          —               —           7.00                  Lipase 11                 Bacillus stearothermophilus    51                         10737182
+
+146    x   1a70            Monomer      70.0          —               —           7.00                 Ferrodoxin                     Spinacia oleracea          23                         12564939
+
+147    x   2imm            Homo2-mer    70.2          —              174          7.00                   Insulin                        Mus Musculus             37                         1906346
+
+148    x   2gj1            Homo2-mer    70.2          —               —           6.00              Lactoperoxidase                       Bos Taurus             38                         20298816
+
+149        1cec            Monomer      70.4          —               —           7.20                 Cellulase C              Ruminiclostridium thermocellum   60                         12034443
+
+150    x   4tln_255-316    Monomer      70.6         0.56             45          7.50                Thermolysin                Bacillus Thermoproteolyticus    52                         8187875
+
+151    x   1r69            Monomer      70.7          —               59          7.00      Phage 434 Rep (Amino Terminal)      Enterobacteria Lambda Phage      37                         10429210
+
+152        1pca            Monomer      71.0         5.20            215          7.20             Carboxypeptidase                       Sus Scrofa             39                         3416871
+
+153    x   3d2c_a          Monomer      71.2          —               —           7.20                   Lipase                         Bacillus subtilis        35                         19472328
+
+154    x   1ag6            Monomer      71.2          —              118          7.00          Cupredoxin plastocyanin               Spinacia oleracea          23                         12939160
+
+155    x   1amm            Monomer      72.0         1.40             52          7.00              gamma-Crystallin                      Bos Taurus             38                         8349689
+
+156    x   1tml            Monomer      72.4          —              190          6.80                Cellulase e2                    Thermobifida fusca         55                         10029552
+
+157    x   1zip            Monomer      72.9         2.84            130          6.80              Adenylate kinase            Geobacillus stearothermophilus   51                         16125837
+
+158    x   1jbk            Monomer      73.0          —              131          7.50                    ClpB                         Escherichia Coli          37                         11967375
+
+"159    x   2hpr            Monomer      73.3         1.16             68          7.00                     HPr                          Bacillus subtilis        35               16566582,7773175"
+
+160    x   1rop_a          Homo2-mer    73.9         0.60            110          7.00                Rop Protein                      Escherichia Coli          37                         20095056
+
+"161        4lyz            Monomer      74.0         1.55            135          6.30                 Lyzozyme                          Gallus Gallus           41     17581805, 17143859,8535242"
+
+162    x   1nlu            Monomer      74.3         7.65            289          7.00                 Sedosolin                      Pseudomonas sp             30                         16478682
+
+163        1svn            Monomer      75.5          —               —           9.00                  Savinase                        Bacillus lentus          30                         15047911
+
+164    x   1yu5_x          Monomer      76.0          —               —           7.00                    Villin                         Gallus Gallus           41                         16337228
+
+165    x   1fvk            Homo2-mer    76.8         1.95            172          7.00                    Dsba                         Escherichia Coli          37                         10210189
+
+166    x   1c9o_a          Homo2-mer    76.9         0.96             60          7.00             Cold Shock Protein                Bacillus caldolyticus       68                         12051927
+
+"167    x   2hbb            Monomer      77.6          —               —           5.40      L9 Ribosomal protein (N Terminal)   Geobacillus stearothermophilus   51             12795600, 15099748"
+
+168    x   1ova_a          Homo2-mer    78.0          —               —           7.00                 Ovalbumin                         Gallus Gallus           41                         14627731
+
+169        1ha4_a          Monomer      78.0         1.08            102          7.00       gamma-S Crystallin C-domain                Homo sapiens             37                         11026675
+
+"170        1ymb            Monomer      78.3         1.87            125          7.50               MetMyoglobin                       Equus caballus           38               11305924,2378866"
+
+171    x   1pgx            Monomer      79.4         0.69             57          5.40          Protein G IgG-binding B2                Streptococcus            37                         1567818
+
+172    x   1gtg            Monomer      79.4         8.37            272          7.00                 Kumasolin                      Bacillus sp MN-32          65                         16478682
+
+173    x   1ete_a          Homo2-mer    79.4          —              114          7.00                FLT3 Ligand                       Homo sapiens             37                         10213632
+
+"174    x   1e65_a          Monomer      79.5          —               89          7.00                   Azurin                   Pseudomonas aeruginosa         37              10423449,15449946"
+
+175    x   1shf_a          Homo4-mer    80.1         0.68             52          7.00              Fyn SH3 domain                      Homo sapiens             37                         9819209
+
+176        2poo            Monomer      80.2          —               —           7.00                  Pythase                   Bacillus amyloliquefaciens     37                         10655618
+
+"177    x   1qg5            Homo2-mer    80.2         1.37             89          7.40               beta-Lactobulin                      Bos Taurus             38                         1390668,"
+
+178    x   1is9            Monomer      80.8          —              300          7.50              Endoglucanase A             Ruminiclostridium thermocellum   60                         12691750
+
+179    x   1hrc            Monomer      81.6         1.27            101          7.00               Cytochrome c                       Equus caballus           38                         12637011
+
+180    x   1hgu            Monomer      82.0          —               —           5.50          Human Growth Ormone                     Homo sapiens             37                         12021444
+
+181    x   1bvc            Monomer      82.2         2.80            187          7.00                 Myoglobin                       Physeter catodon          37                         8358293
+
+"182    x   1ppn            Monomer      84.3          —              211        4.00-5.60                Papain                         Carica papaya            27        17628660,821838,8508784"
+
+183    x   2ocj_a          Homo4-mer    84.8         0.42             53          7.00           Tumor suppressor p53                   Homo sapiens             37                         7727392
+
+184    x   2ovo            Monomer      85.2          —               —           4.50           Ovomucoid III domain                Lophura nycthemera          42                         7718578
+
+185    x   1io2            Monomer      85.2          —              137          9.00              Ribonuclease H               Thermococcus kodakarensis       80                         17042484
+
+186    x   1cse            Hete2-mer    85.8         0.73             70          7.00                   Eglin C                      Hirudo Medicinalis         30                          762674
+
+187    x   1iv7            Monomer      85.9          —               —           7.00           Single Chain monellin           Dioscoreophyllum cumminsii      30                         11279156
+
+188        1qez            Homo6-mer    86.0          —               —           7.00              Pyrophosphatase                Sulfolobus acidocaldarus      75                         10386872
+
+189        1bsq            Monomer      86.0          —               —           7.00              Lacto-globulin B                      Bos Taurus             38                         16417918
+
+190    x   1nni            Homo2-mer    86.5          —               —           7.50                    YhdA                          Bacillus subtilis        35                         16752898
+
+191    x   1ynr_a          Homo4-mer    87.5         0.90             37          5.00              Cytochrome c552             Hydrogenobacter thermophilus     73                         10918067
+
+192        1pga            Monomer      87.5         0.62             62          5.40          Protein G IgG-binding B1                Streptococcus            37                         1567818
+
+193    x   1onc            Monomer      87.8         1.43            127          7.00                 Onconase                          Rana Pipiens            19                         10913282
+
+"194    x   2trx_a          Monomer      88.0         1.30            102          6.80                 Thioredoxin                     Escherichia Coli          37     1591250,8393344,11513583,16"
+
+195    x   1n97            Monomer      88.0         1.14             71          7.00             Cytochrome P450                  Thermus Thermophilus         68                         12401810
+
+196        1y4y            Monomer      88.3          —               99          7.00                     HPr                    Bacillus stearothermophilus    51                         16566582
+
+197    x   2prd            Homo6-mer    89.0          —               —           7.00              Pyrophosphatase                Thermus Thermophilus          68                         10386872
+
+198    x   5cpv            Homo2-mer    90.0         1.10            120          7.00                Parvalbumin                      Cyprinus Carpio           23                           27259
+
+"199    x   1ubq            Monomer      90.0         0.90             72          4.00                  Ubiquitin                       Homo sapiens             37               10387059,8202465"
+
+200        1hev            Monomer      90.1         1.88            159          3.67                   Hevein                       Hevea Brasiliensis         28                         7737158
+
+201    x   3wrp            Homo2-mer    90.3         1.45            107          7.50            Tryptophan repressor                 Escherichia Coli          37                         3045823
+
+202    x   1i4n            Monomer      90.3          —               —           7.40         Indoleglycerol Phosphatase            Thermotoga maritima         80                         10329177
+
+203    x   1f4t_a          Monomer      91.0          —               —           7.40             Cytochrome P450                  Sulfolobus Solfataricus      80                         12401810
+
+204        1evq            Monomer      91.0          —              130          7.50             Carboxyl Esterase                Bacillus acidocaldarius      65                         11802739
+
+205    x   1h7m            Monomer      93.8         1.27            109          7.00                T Celer L30e                   Thermococcus celer          88                         15811378
+
+206    x   1c52            Monomer      94.9          —               —           7.50              Cytochrome c552                 Thermus Thermophilus         68                          209196
+
+"207    x   1c8c            Monomer      98.6         0.69             64          7.00                   Sso7d                      Sulfolobuls Solfataricus     80               9671520,15005619"
+
+208        1jji_a          Monomer      99.0          —              103          7.50             Carboxyl Esterase                Archeoglobus Fulgidus        83                         11802739
+
+209        1azp            Monomer      99.0         0.75             65          7.00                   Sac7d                      Sulfolobus Solfataricus      80                         15005619
+
+210    x   2bjd            Monomer      100.8        1.15            105          5.50             Acyl-Phosphatase                 Sulfolobus Solfataricus      80                         16287076
+
+211    x   1tmy            Monomer      100.9        1.17             95          6.00                    CheY                       Thermotoga maritima         80                         11669649
+
+212        1irn            Homo3-mer    104.3        0.50             62          7.00                 Rubredoxin                  Clostridium pasteurianum      37                         15326598
+
+213    x   5pti            Monomer      104.5        0.56             75          7.00           Bovine Trypsin Inhibitor                 Bos Taurus             38                         7507751
+
+214        2d0s            Monomer      108.0         —               —           5.00              Cytochrome c552             Hydrogenophilus thermoluteolus   50                         16681384
+
+215    x   2a3m            Monomer      108.0         —               —           7.60              G20 Cytochrome                Desulfovibrio desulfuricans    33                         7507751
+
+216        1w2i_a          Homo2-mer    111.5         —               —           7.40             Acyl-Phosphatase                 Pyrococcus horikoshii        98                         15779887
+
+217    x   1nza            Homo3-mer    112.7         —               —           7.00                   CutA 1                     Thermus Thermophilus         68                         16831434
+
+218        1gtm_a          Homo6-mer    114.5         —               —           7.00         Glutamate dehydrogenase               Pyrococcus Furiosus         100                        9770481
+
+219    x   1dju            Homo2-mer    120.1         —               —           6.50              Aminotransferase                Pyrococcus horikoshii        98                         10671523
+
+220        2cth_a          Monomer      121.6         —               —           7.60               Cytochrome c3                   Desulfovibrio vulgaris      37                         9890880
+
+221    x   1brf            Monomer      143.8        0.50             80          7.00                 Rubredoxin                    Pyrococcus Furiosus         100                        15326598
+
+222        1j2v            Monomer      148.5         —               —           7.00                   CutA 1                     Pyrococcus horikoshii        98                         16831434
