@@ -1,6 +1,6 @@
 from nltk.tokenize import RegexpTokenizer
-from gensim import corpora, models
-import gensim
+# from gensim import corpora, models
+# import gensim
 import csv
 
 tokenizer = RegexpTokenizer(' ')
@@ -31,9 +31,13 @@ def get_data(file_name):
 
 
 if __name__ == "__main__":
-    data = get_data('data/full_data.csv')
-    # Add to topics in dictionary
-    # Then get topics
-    # If you get similar topics for test set, choose that
-    print(len(data))
-    print(data)
+    arr = [1, 2, 3, 4, 5]
+    print(arr[int(len(arr) / 5):])
+    print(arr[:int(len(arr) / 5)])
+    # break
+    # data = get_data('data/full_data.csv')
+    # # Add to topics in dictionary
+    # # Then get topics
+    # # If you get similar topics for test set, choose that
+    # print(len(data))
+    # print(data)
