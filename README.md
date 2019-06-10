@@ -2,4 +2,4 @@
 
 ## Ruben Krueger, Marco Mora-Mendoza, Josh Wolff
 
-### Task: Given a protein's amino acid sequence, that is the protein's melting temperature?
+### Task: Given a protein's amino acid sequence, what is the protein's melting temperature?
